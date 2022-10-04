@@ -1,4 +1,4 @@
-var characterLength = 8;
+var characterLength;
 var choiceArr = [];
 
 var specialCharacterArr = ['?',',','!','#','[',']','{','}','-','.','|'];
